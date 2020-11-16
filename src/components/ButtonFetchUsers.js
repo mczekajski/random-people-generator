@@ -2,7 +2,7 @@ import React from 'react';
 
 const ButtonFetchUsers = (props) => {
     return ( 
-        <button onClick={props.click}>Dodaj użytkownika</button>
+        <button onClick={props.click}>GENERATE PERSON</button>
      );
 }
  
